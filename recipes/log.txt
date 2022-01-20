@@ -1,0 +1,6 @@
+Launching lib/main.dart on Android SDK built for x86 in debug mode...
+lib/main.dart:1
+✓  Built build/app/outputs/flutter-apk/app-debug.apk.
+Connecting to VM Service at ws://127.0.0.1:51953/AqTBF9DMsb8=/ws
+Reloaded 1 of 569 libraries in 1,324ms.
+

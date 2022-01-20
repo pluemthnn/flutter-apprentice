@@ -59,12 +59,12 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/15992102771_b92f4cc00a_b.jpeg
-    - assets/15452035777_294cefced5_c.jpeg
-    - assets/2126711929_ef763de2b3_w.jpeg
-    - assets/3187380632_5056654a19_b.jpeg
-    - assets/27729023535_a57606c1be.jpeg
-    - assets/8533381643_a31a99e8a6_c.jpeg
+    - assets/jonas-verstuyft-flsFQ3UTuKw-unsplash.jpg
+    - assets/jonas-verstuyft-flsFQ3UTuKw-unsplash.jpg
+    - assets/markus-spiske-n52HL8hmsdg-unsplash.jpg
+    - assets/scott-goodwill-y8Ngwq34_Ak-unsplash.jpg
+    - assets/matthew-kalapuch-sqJ4tLBiurw-unsplash.jpg
+    - assets/sincerely-media-dGxOgeXAXm8-unsplash.jpg
 
   # assets:
   #   - images/a_dot_burr.jpeg

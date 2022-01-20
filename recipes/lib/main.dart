@@ -21,7 +21,7 @@ class RecipeApp extends StatelessWidget {
           secondary: Colors.amber,
         ),
       ),
-      home: const MyHomePage(title: 'Recipe Demo'),
+      home: const MyHomePage(title: 'Public ChatRoom'),
     );
   }
 }
@@ -45,8 +45,6 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       // 3
       body: SafeArea(
-        // TODO: Replace child: Container()
-        // 4
         // 4
         child: ListView.builder(
           // 5
